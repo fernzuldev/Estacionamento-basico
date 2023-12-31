@@ -1,0 +1,11 @@
+C:\Users\Raphael\Desktop\Projetos\Estacionamento\Estacionamento\bin\Debug\Estacionamento.exe.config
+C:\Users\Raphael\Desktop\Projetos\Estacionamento\Estacionamento\bin\Debug\Estacionamento.exe
+C:\Users\Raphael\Desktop\Projetos\Estacionamento\Estacionamento\bin\Debug\Estacionamento.pdb
+C:\Users\Raphael\Desktop\Projetos\Estacionamento\Estacionamento\obj\Debug\Estacionamento.csproj.AssemblyReference.cache
+C:\Users\Raphael\Desktop\Projetos\Estacionamento\Estacionamento\obj\Debug\Estacionamento.Inicio.resources
+C:\Users\Raphael\Desktop\Projetos\Estacionamento\Estacionamento\obj\Debug\Estacionamento.Properties.Resources.resources
+C:\Users\Raphael\Desktop\Projetos\Estacionamento\Estacionamento\obj\Debug\Estacionamento.csproj.GenerateResource.cache
+C:\Users\Raphael\Desktop\Projetos\Estacionamento\Estacionamento\obj\Debug\Estacionamento.csproj.CoreCompileInputs.cache
+C:\Users\Raphael\Desktop\Projetos\Estacionamento\Estacionamento\obj\Debug\Estacionamento.exe
+C:\Users\Raphael\Desktop\Projetos\Estacionamento\Estacionamento\obj\Debug\Estacionamento.pdb
+C:\Users\Raphael\Desktop\Projetos\Estacionamento\Estacionamento\obj\Debug\Estacionamento.Meio.resources
